@@ -1,0 +1,7 @@
+
+for i in DD PROTEINS NCI1 MUTAG  Mutagenicity FRANKENSTEIN REDDIT-BINARY PTC_MR ENZYMES  NCI109  IMDB-BINARY IMDB-MULTI COLLAB
+
+do
+    python main.py --dataset $i
+
+done

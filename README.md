@@ -9,8 +9,8 @@ On Exploring Node-feature and Graph-structure Diversities for Node Drop Graph Po
 ## Requirements
 
 
-```
-python conda create -c conda-forge -n my-rdkit-env rdkit python =3.7
+```python 
+conda create -c conda-forge -n my-rdkit-env rdkit python=3.7
 
 pip3 install torch==1.9.0 torchvision==0.10.0 torchaudio==0.9.0
 
